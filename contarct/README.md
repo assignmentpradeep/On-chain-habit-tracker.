@@ -20,3 +20,5 @@ The vision of the On-chain Habit Tracker is to empower individuals with a trustl
 - **Simple and Efficient:** Lightweight smart contract design for cost-effective habit tracking.
 
 This project is designed to revolutionize the way habits are tracked by integrating blockchain technology for an entirely decentralized and trustless experience. The smart contract is built without relying on OpenZeppelin, ensuring a fully custom implementation.
+##contarct adderss:
+0x1099B901fcd5EC0E59F467C9F22f84e4a8d0D14
