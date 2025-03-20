@@ -11,6 +11,7 @@ The vision of the On-chain Habit Tracker is to empower individuals with a trustl
 - **Habit Sharing:** Allow users to share their progress with a community.
 - **Gamification:** Add achievements and leaderboards for motivation.
 - **Cross-Chain Integration:** Expand to multiple blockchain networks for broader accessibility.
+![Screenshot (2)](https://github.com/user-attachments/assets/f18cd957-78bf-4cd2-807e-6b61bbc5f7dc)
 
 ## Key Features
 - **Immutable Habit Records:** Ensures permanent and tamper-proof habit tracking.
