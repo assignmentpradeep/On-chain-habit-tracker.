@@ -21,5 +21,6 @@ The vision of the On-chain Habit Tracker is to empower individuals with a trustl
 
 This project is designed to revolutionize the way habits are tracked by integrating blockchain technology for an entirely decentralized and trustless experience. The smart contract is built without relying on OpenZeppelin, ensuring a fully custom implementation.
 
-## Contarct adderss: 0x1099B901fcd5EC0E59F467C9F22f84e4a8d0D14
+## Contarct adderss: 0xa66f6EEB6c16EF3fACaaD7d8da4CF0AaF9A31fb6
 
+![image](https://github.com/user-attachments/assets/2499b98f-ad3a-4d6a-bc46-3c74b7d8fee4)
