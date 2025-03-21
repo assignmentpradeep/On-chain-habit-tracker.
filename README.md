@@ -11,7 +11,6 @@ The vision of the On-chain Habit Tracker is to empower individuals with a trustl
 - **Habit Sharing:** Allow users to share their progress with a community.
 - **Gamification:** Add achievements and leaderboards for motivation.
 - **Cross-Chain Integration:** Expand to multiple blockchain networks for broader accessibility.
-![Screenshot (2)](https://github.com/user-attachments/assets/f18cd957-78bf-4cd2-807e-6b61bbc5f7dc)
 
 ## Key Features
 - **Immutable Habit Records:** Ensures permanent and tamper-proof habit tracking.
@@ -21,5 +20,6 @@ The vision of the On-chain Habit Tracker is to empower individuals with a trustl
 - **Simple and Efficient:** Lightweight smart contract design for cost-effective habit tracking.
 
 This project is designed to revolutionize the way habits are tracked by integrating blockchain technology for an entirely decentralized and trustless experience. The smart contract is built without relying on OpenZeppelin, ensuring a fully custom implementation.
-##contarct adderss:
-0x1099B901fcd5EC0E59F467C9F22f84e4a8d0D14
+
+## Contarct adderss: 0x1099B901fcd5EC0E59F467C9F22f84e4a8d0D14
+
