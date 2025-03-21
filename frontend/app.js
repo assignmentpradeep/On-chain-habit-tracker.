@@ -1,4 +1,4 @@
-const contractAddress = "YOUR_SMART_CONTRACT_ADDRESS";
+const contractAddress = "";
 const abi = [
     {
         "inputs": [
