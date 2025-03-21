@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MicroDonation Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>💖 MicroDonation Platform</h1>
+        <p>Support a cause with small donations!</p>
+
+        <div class="donation-section">
+            <input type="number" id="donationAmount" placeholder="Enter amount in ETH">
+            <button onclick="donate()">Donate Now</button>
+        </div>
+
+        <div class="status">
+            <p><strong>Total Donations:</strong> <span id="totalDonations">0</span> ETH</p>
+            <p><strong>Recipient:</strong> <span id="recipientAddress">Loading...</span></p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.4/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
